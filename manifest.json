@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
 
-	"name": "Super Path",
+	"name": "MrPathman",
 	"version": "0.1",
 
 	"icons": {
@@ -11,7 +11,7 @@
 	},
 
 	"browser_action": {
-		"default_title": "Find xpath",
+		"default_title": "Find XPath",
 		"default_icon": "logo/32x32.png",
 		"default_popup": "popup.html"
 	}
